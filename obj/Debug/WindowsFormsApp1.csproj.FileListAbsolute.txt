@@ -1,0 +1,43 @@
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formporabola.resources
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giperbola.resources
+Z:\C#_Itog\C#_Itog\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sinus.resources
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.Formporabola.resources
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.giperbola.resources
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.Sinus.resources
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.exe
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.pdb
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\bin\Debug\WindowsFormsApp1.exe.config
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\bin\Debug\WindowsFormsApp1.exe
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\bin\Debug\WindowsFormsApp1.pdb
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.Formcolor.resources
+Z:\C#_Itog\C#_Itog\Project\Graphics Function\obj\Debug\WindowsFormsApp1.linstep.resources
+E:\Проект\bin\Debug\WindowsFormsApp1.exe.config
+E:\Проект\bin\Debug\WindowsFormsApp1.exe
+E:\Проект\bin\Debug\WindowsFormsApp1.pdb
+E:\Проект\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Проект\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Проект\obj\Debug\WindowsFormsApp1.Formcolor.resources
+E:\Проект\obj\Debug\WindowsFormsApp1.Formporabola.resources
+E:\Проект\obj\Debug\WindowsFormsApp1.giperbola.resources
+E:\Проект\obj\Debug\WindowsFormsApp1.linstep.resources
+E:\Проект\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Проект\obj\Debug\WindowsFormsApp1.Sinus.resources
+E:\Проект\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Проект\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Проект\obj\Debug\WindowsFormsApp1.exe
+E:\Проект\obj\Debug\WindowsFormsApp1.pdb
